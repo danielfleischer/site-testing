@@ -1,3 +1,9 @@
+#+TITLE: My Blog
+#+hugo_base_dir: .
+#+author: Daniel Fleischer
+#+creator: Emacs 27.1 (Org mode 9.4 + ox-hugo)
+
+
 * Software
 :PROPERTIES:
 :CREATED:  [2020-09-17 Thu 17:22]
