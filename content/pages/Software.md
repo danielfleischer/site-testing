@@ -1,13 +1,18 @@
 +++
+title = "Software"
 author = ["Daniel Fleischer"]
-lastmod = 2020-09-18T15:11:54+03:00
+lastmod = 2020-09-18T15:19:29+03:00
 draft = false
+weight = 2001
+noauthor = true
+nocomment = true
+nodate = true
+nopaging = true
+noread = true
+[menu.main]
+  weight = 2001
+  identifier = "software"
 +++
-
-## Pages {#pages}
-
-
-### Software {#software}
 
 We choose python as the main language. Make sure you have the latest python, e.g. `3.8`.
 
@@ -29,7 +34,7 @@ Familiarize yourself with the python package manager `pip3`; install the followi
 : Notebooks environment for development and experimentation.
 
 
-#### Jupyter Lab {#jupyter-lab}
+## Jupyter Lab {#jupyter-lab}
 
 Jupyterlab is a very useful environment for development and experimentation. It has many advantages:
 

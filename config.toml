@@ -1,0 +1,4 @@
+baseURL = "https://danielfleischer.github.io/site-testing/"
+languageCode = "en-us"
+title = "Site Test 1"
+publishDir = "docs"

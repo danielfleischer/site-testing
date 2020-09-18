@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Test 1</title>
+    <link>https://danielfleischer.github.io/site-testing/</link>
+    <description>Recent content on Site Test 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 15:19:29 +0300</lastBuildDate><atom:link href="https://danielfleischer.github.io/site-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software</title>
+      <link>https://danielfleischer.github.io/site-testing/pages/software/</link>
+      <pubDate>Fri, 18 Sep 2020 15:19:29 +0300</pubDate>
+      
+      <guid>https://danielfleischer.github.io/site-testing/pages/software/</guid>
+      <description>We choose python as the main language. Make sure you have the latest python, e.g. 3.8.
+Familiarize yourself with the python package manager pip3; install the following packages:
+ numpy vectors and arrays structures and many mathematical functions. pandas Data frames structures. matplotlib Plotting library. sklearn Machine learning algorithms as well as many helpful functions dealing with data. jupyterlab Notebooks environment for development and experimentation.  Jupyter Lab Jupyterlab is a very useful environment for development and experimentation.</description>
+    </item>
+    
+  </channel>
+</rss>
